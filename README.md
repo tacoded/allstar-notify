@@ -5,5 +5,5 @@
 - set **discpgm=/path-to-script/notify.sh 0**
 
 # PHP Script Installation
-- place script on your webserver with php enabled
+- place **notify.php** and **astdb.txt** on your webserver with php enabled. **notify.sh** should point here
 - modify webhook url as needed
